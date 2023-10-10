@@ -62,7 +62,6 @@ menuNames[MYSTERY] = "???";
 menuNames[SOIL] = "SOIL";
 menuNames[ACID] = "ACID";
 menuNames[THERMITE] = "THERMITE";
-menuNames[NUKE] = "NUKE";
 
 /*
  * Some element colors do not have very good contrast against
